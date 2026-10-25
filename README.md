@@ -135,6 +135,3 @@ Original results cannot be compared directly with corrected results because the 
 
 Tests cover a disjoint shared holdout, duplicate split rejection, an empty shortlist, false positives retained in combined evaluation, single-row metric handling and invalid worker configuration. Model training additionally verifies that reloaded pipelines reproduce predictions from original features.
 
-## Authors
-
-Rohit Agrawal (24M0744), Daksh Goyal (24M0756), Gaurav Kumar (24M0786), Anishek Chaudhary (24M0787).
